@@ -10,7 +10,7 @@ This [spreadsheet](https://docs.google.com/spreadsheets/d/1nywMHP1mt84LBg-n95L09
 
 ## Retrieving papers from the OWL ##
 
-Login to the UBalt portal and navigate to the [Online Writing Lab](https://www.ubalt.edu/writing/admin/index.cfm) (OWL) app. From your OWL inbox, click the OUTBOX link in the top right corner. 
+Login to the UBalt portal and navigate to the [Online Writing Lab](https://www.ubalt.edu/writing/admin/index.cfm) (OWL) app. From your OWL inbox, click the `OUTBOX` link in the top right corner. 
 
 * Identify the tutor that your were assigned to assess from the Outbox list. Select a paper they've provided feeabck on within the last two semesters.
 
@@ -72,7 +72,7 @@ ie. davidkelly_assessment_fall2016
 
 You will want to save the newly named file on your device before saving it in the Writing Center TEAMS notebook. The idea here is to save the file in a place where you can easily retrieve it, particular if you dont complete the full assessment process in one sitting. Consider these two option for saving the assessed document on your device:
 
-1. Create a folder on your desktop titled, Writing Center Feedback. Save your assesment work here.
+1. Create a folder on your desktop titled, Writing Center Feedback. Save your assessment work here.
 
 2. Save file as a Download:
 
