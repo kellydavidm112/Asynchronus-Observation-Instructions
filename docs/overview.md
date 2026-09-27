@@ -1,20 +1,18 @@
 # Asynchronous Observation Assessments #
------
+
 ## What's the goal? ##
 
 Asynchronus observations are one way to assess the feedback we provide to students about their writing. The goal of assessing tutors' feedback on students' writing is to support the consistency of asychronus tutoring practices; tutors attention to writing feedback and rhetorical strategies; and reinforce ethical and professional best practice writing pedagogy standards standards.
 
-------
 Here is a list of plaforms you will need to naviagte in order to complete you Asychronous Oberservation Assessment:
 
-== MS TEAMS ==
+`MS TEAMS`
 
-== MS Word ==
+`MS Word`
 
-== Online Writing Lab Oubox ==
+`Online Writing Lab`
 
-----
-## Asynchronous Observations Assessment Process ##
+## Asynchronous observations assessment process ##
 
 The process for completing your assessment of a tutor's asychronous feedback practices includes:
 
