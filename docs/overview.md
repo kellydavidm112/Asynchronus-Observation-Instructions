@@ -6,7 +6,7 @@ Asynchronus observations give us the opportunity reflect on the feedback we give
 
 This assessment considers: 
 
-* tutors attention to writing feedback
+* tutor's attention to writing feedback
 
 * rhetorical strategies
 
