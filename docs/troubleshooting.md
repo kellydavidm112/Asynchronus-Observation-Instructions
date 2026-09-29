@@ -2,8 +2,6 @@
 
 This page contains supplemental information related to the assessments you will complete.
 
------
-
 ## Navigating the UBalt page
 
 * From the UBalt [landing page](https://ubalt.edu), click `MENU`s in the top right corner of the homepage. 
