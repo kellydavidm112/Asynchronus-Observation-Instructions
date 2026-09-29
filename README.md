@@ -14,7 +14,9 @@ In order to do these oberservations assessment, you need to navigate across mult
 ## Audience ##
 
 This guide is for:
- 1. CRLA level two and level three certified writing tutors
+
+ 1. CRLA level two and level three certified writing tutors.
+
  2. New tutors in the writng center particpating in training week(s) about obersvations.
 
  3. Writing Center Administrators interested in training models for peer-led asynchronus observation assessement.
